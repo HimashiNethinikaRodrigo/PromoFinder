@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "590388482202",
+    "firebase_url": "https://promo-47fd4.firebaseio.com",
+    "project_id": "promo-47fd4",
+    "storage_bucket": "promo-47fd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590388482202:android:66e48192ef22bb5c",
+        "android_client_info": {
+          "package_name": "edu.uom.android.apps.promofinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590388482202-ctss1gvn218oba9ffffkdrhd62af3vul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uom.android.apps.promofinder",
+            "certificate_hash": "f18b6931e89339d0229131874b93b51ed64aff60"
+          }
+        },
+        {
+          "client_id": "590388482202-n6v80ji84b2k8eujjp08ono0q1ij0m1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrhG75rMtHmUiW9FCG0ft55SrCzcm463Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590388482202-n6v80ji84b2k8eujjp08ono0q1ij0m1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

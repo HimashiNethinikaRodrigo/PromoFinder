@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Promo Finder</string>
+    <string name="selectDistance">Select Distance</string>
+    <string name="gps_network_not_enabled">GPS Not Enabled</string>
+    <string name="open_location_settings">Location Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
